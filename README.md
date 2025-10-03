@@ -28,9 +28,7 @@ Esse projeto faz parte da minha **Trilha de Projetos** para colocar em meu portf
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** → Estrutura da página  
-- **CSS3** → Estilização e responsividade  
-- **JavaScript (ES6+)** → Lógica da aplicação, manipulação do DOM e persistência  
-- **LocalStorage** → Armazenamento local dos dados do usuário  
-
----📂 Estrutura do Projeto
+- **HTML5** - Estrutura da página  
+- **CSS3** - Estilização e responsividade  
+- **JavaScript (ES6+)** - Lógica da aplicação, manipulação do DOM e persistência  
+- **LocalStorage** - Armazenamento local dos dados do usuário  
