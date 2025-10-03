@@ -13,7 +13,7 @@ Esse projeto faz parte da minha **Trilha de Projetos** para colocar em meu portf
 ✅ Excluir tarefas individualmente ❌  
 ✅ Filtros: **Todas | Pendentes | Concluídas**  
 ✅ Dark/Light Mode 🌙☀️ (com persistência no LocalStorage)  
-✅ Persistência de dados → tarefas salvas mesmo após atualizar a página  
+✅ Persistência de dados - tarefas salvas mesmo após atualizar a página  
 
 ---
 
